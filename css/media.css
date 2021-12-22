@@ -1,0 +1,11 @@
+@media (max-width:1024px)  {
+    .container {
+       max-width: 950px;
+    }
+    .woman_pic {
+        width: 350px;
+        height: 350px;
+    }
+
+
+}
